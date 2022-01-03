@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Capture_decran_2021-10-29_a_16.50.52.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Capture_decran_2021-10-29_a_16.50.52-1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Capture_decran_2021-10-29_a_16.50.52-2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
